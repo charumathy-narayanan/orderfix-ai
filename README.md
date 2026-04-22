@@ -37,3 +37,30 @@ OrderFix uses AI to read messages, extract order details, and convert them into 
   ],
   "delivery_time": "8pm"
 }
+
+
+🏗️ Tech Stack
+Python
+FastAPI
+LLM APIs (OpenAI / Claude)
+
+📦 Project Structure
+orderfix-ai/
+├── app/
+├── docs/
+├── .env.example
+├── requirements.txt
+└── README.md
+
+💼 Use Case
+Cloud kitchens
+Home food businesses
+Small retailers using WhatsApp orders
+🚧 Note
+
+This repository showcases the system design and capabilities.
+Full production implementation is private.
+
+📫 Contact
+
+Charu@Stratschool.org
